@@ -62,7 +62,7 @@ The goal of this project is to develop a **scalable, intelligent, and cloud-depl
 ### 📥 Clone Repository
 
 ```bash
-gh repo clone chamancharsee-del/NSEC-MajorProject-assignment
+gh repo clone AirGeddon07/NSEC-MajorProject-assignment
 cd NSEC-MajorProject-assignment
 ```
 ---
